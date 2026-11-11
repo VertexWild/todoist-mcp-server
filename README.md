@@ -1,3 +1,6 @@
+> [!CAUTION]
+> 🔴 **Dependency security review — 2026-11-11:** the pinned MCP SDK version falls within published advisory ranges. **The current stdio transport is excluded by the identified transport advisories; no exploitable path is established.** See [SECURITY-DEPENDENCIES.md](SECURITY-DEPENDENCIES.md) before changing transport or deploying.
+
 # Todoist MCP Server
 [![smithery badge](https://smithery.ai/badge/@abhiz123/todoist-mcp-server)](https://smithery.ai/server/@abhiz123/todoist-mcp-server)
 
